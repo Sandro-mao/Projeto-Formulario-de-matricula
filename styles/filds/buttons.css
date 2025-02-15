@@ -11,6 +11,7 @@ button {
     background-color: #E43A12;
 
     &:hover, &:focus {
+      color: white;
       background-color: #F3541C;
     }
   }
@@ -22,6 +23,6 @@ button {
 
   &:hover, &:focus {
     color: #E43A12;
-    outline: .25rem solid var(--surface-secondary);
+    outline: .25rem solid var(--suface-secondary);
   }
 }
